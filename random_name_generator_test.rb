@@ -1,8 +1,6 @@
 require_relative 'random_name_generator'
 
-class RandomNameGeneratorTest
-  generator = RandomNameGenerator.new("media/greek_myth_sample")
+generator = RandomNameGenerator.new("media/greek_myth_sample")
 
-  puts "Generating 40 names"
-  40.times {puts generator.generate}
-end
+puts "Generating 40 names"
+40.times {puts generator.generate}
