@@ -1,6 +1,6 @@
-This is a program to generate random fantasy/sci-fi names. To do, you must first parse an input file.
+This is a program to generate random fantasy/sci-fi names. To do so, you must first parse an input file.
 
-For an example of an input file, you go check /media/greek_myth_sample. Your file must start and end with a space and all names must be space-delimited. 
+For an example of an input file, you can go check /media/greek_myth_sample. Your file must start and end with a space and all names must be space-delimited. 
 
 A simple script, fix_sample.rb, is provided which will attempt to fix a sample file to convert it to a format more in line with what is expected by this program.
 
