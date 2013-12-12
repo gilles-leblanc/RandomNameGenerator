@@ -6,3 +6,7 @@ A simple script, fix_sample.rb, is provided which will attempt to fix a sample f
 
 See the file random_name_generator_test.rb for an example of using the program to generate a group of random names.
 
+Usage 
+=====
+
+Run and have a look at random_name_generator_test.rb for how to use the program.
